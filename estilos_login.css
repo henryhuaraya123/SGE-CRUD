@@ -1,0 +1,21 @@
+.cuerpo
+{
+    background-image: url("imagenes/fondoprueba.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 645px;
+}
+.wrap-input100
+{
+    padding: 4px 9px 16px;
+}
+
+.cabecera
+{
+    background-color: white;
+}
+
+.wrap-login
+{
+    padding: 12% 0px 0px 10%;
+}
